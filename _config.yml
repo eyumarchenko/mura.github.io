@@ -20,9 +20,9 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : Emil Baehr                                
-your_link                                 : https://emilbaehr.com                     
-your_city                                 : Copenhagen                                
+# your_name                                 : Emil Baehr                                
+# your_link                                 : https://emilbaehr.com                     
+# your_city                                 : Copenhagen                                
 email_address                             : support@mura-journal.online
 linkedin_username                         :                                           
 linkedin_company                          :                                           
