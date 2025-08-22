@@ -1,3 +1,8 @@
+---
+layout: page
+title: Terms of Use
+include_in_header: true
+---
 
 # Terms of Use for Mura
 
