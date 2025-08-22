@@ -93,4 +93,4 @@ These Terms are governed by the laws of the European Union and applicable local 
 ## 11. Contact Us
 
 If you have questions about these Terms, contact us at:  
-📧 [Insert contact email]
+📧 [support@mura-journal.online]
