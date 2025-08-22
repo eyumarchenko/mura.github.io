@@ -66,7 +66,7 @@ Depending on your location, you may have the right to:
 
 ## 6. Children’s Privacy
 
-Mura is not directed at children under 13. We do not knowingly collect personal data from children.
+Mura is not directed at children under 16. We do not knowingly collect personal data from children.
 
 ---
 
