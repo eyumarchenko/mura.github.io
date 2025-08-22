@@ -1,60 +1,82 @@
+# Privacy Policy for Mura
+
+**Effective Date:** 22 August 2025
+
+Mura is built as a private journaling space. Your entries belong to you, and we are committed to protecting your privacy.
+
 ---
-layout: page
-title: Privacy Policy
-include_in_header: false
+
+## 1. Information We Collect
+
+- **Journal Entries**  
+  Your journal entries are stored **only on your device**. We do not have access to them. They are never uploaded to our servers.
+
+- **App Usage Data**  
+  We may collect anonymous app usage and crash data (via Firebase) to improve stability and performance. This data does not include your journal entries.
+
+- **Subscription & Purchases**  
+  We use RevenueCat to process in-app purchases and manage subscriptions. RevenueCat receives basic information from Apple / Google necessary to confirm your purchase (e.g., transaction ID, subscription status). We do not receive your payment details.
+
+- **AI Features**  
+  If you use Mura’s AI-powered features (e.g., to generate prompts or reflections), the text you enter into these features is sent to **OpenAI** to generate a response.  
+  - Your journal entries are **never automatically sent** to OpenAI.  
+  - Only the text you choose to provide for AI features is shared.  
+  - OpenAI may temporarily store this data for abuse monitoring, but it is not used to train their models.
+
 ---
 
-**Last updated**  
-August 1 2019
+## 2. How We Use Information
 
-# Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
+We use the collected information only to:  
+- Provide and improve the app.  
+- Deliver AI-powered features (via OpenAI).  
+- Process subscriptions and purchases (via RevenueCat).  
+- Monitor app performance and fix issues (via Firebase).
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+We never sell your data to advertisers.
 
-<br>
+---
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
+## 3. Data Storage & Security
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+- Journal entries are stored **locally on your device**.  
+- Data sent to third-party services (RevenueCat, Firebase, OpenAI) is protected using industry-standard encryption in transit.  
+- You can delete your journal entries at any time by removing them from the app or uninstalling it.
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+---
 
-<br>
+## 4. Third-Party Services
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+Mura relies on the following third-party services, each with their own privacy policies:  
+- [OpenAI](https://openai.com/policies/privacy-policy)  
+- [Firebase (Google)](https://firebase.google.com/support/privacy)  
+- [RevenueCat](https://www.revenuecat.com/privacy)
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+---
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+## 5. Your Rights
 
-<br>
+Depending on your location, you may have the right to:  
+- Access the information we collect about you.  
+- Request deletion of your personal data.  
+- Opt out of analytics or crash reporting.  
+- Export or delete your journal entries directly from your device.
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+---
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
+## 6. Children’s Privacy
 
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+Mura is not directed at children under 13. We do not knowingly collect personal data from children.
 
-<br>
+---
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+## 7. Changes to This Policy
 
-<br>
+We may update this Privacy Policy from time to time. If we make material changes, we will notify you in the app or by other reasonable means.
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+---
+
+## 8. Contact Us
+
+If you have any questions or requests regarding this Privacy Policy, you can reach us at:  
+📧 [Insert contact email]
