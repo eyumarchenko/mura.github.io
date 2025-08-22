@@ -85,4 +85,4 @@ We may update this Privacy Policy from time to time. If we make material changes
 ## 8. Contact Us
 
 If you have any questions or requests regarding this Privacy Policy, you can reach us at:  
-📧 [Insert contact email]
+📧 [support@mura-journal.online]
