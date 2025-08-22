@@ -1,3 +1,9 @@
+---
+layout: page
+title: Privacy Policy
+include_in_header: true
+---
+
 # Privacy Policy for Mura
 
 **Effective Date:** 22 August 2025
