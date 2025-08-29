@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Privacy Policy
+title: Privacy Lilkus Support
 include_in_header: false
 ---
 
-# Lilkus — Support
-
-Minimal help for a calmer mind.
+Lilkus: Cat Translator & Games
 
 ---
 
